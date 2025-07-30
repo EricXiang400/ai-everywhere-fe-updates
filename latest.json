@@ -1,9 +1,9 @@
 {
-  "version": "0.3.0",
+  "version": "0.4.0",
   "notes": "First public build",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZTZFc4ek9GTjBaSEZEVEhkS1kycHRMM2x4UlZab1RIRXlla3B5U1VRMVVVcFdkR2h0TXpoQlMxTmxXV2xUVnpSeWQxUXJVVGdyU25GWVZFRnJaR2hLY0U5NlJFRnFRelJ4Y0V0TVYzWkRNUzlJT1hjd09HZG9iMnBWU0ZsdmRXZHJQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpVek5UVTNOakE0Q1dacGJHVTZZV2xsZG1WeWVYZG9aWEpsY0hKdmFtVmpkQzFuZFdrdVlYQndMblJoY2k1bmVncFFhekJEUVhOSGRFdzRiWEpKU25CNGVVRktVa2R3YjJKSVdIYzBOSEpxTVRaaGNrdDNPRk40TW5GNFpVTlpZVXBYWlc5UU16UllLMmhVY2tWdGFFMTRSbXd6TTJkSVkyWnVhMFpXVWt0RVJERkJSSGxCVVQwOUNnPT0=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSmMrUW5Zd0ZOeVRVQ0IvUEdVaU9TcHVQcEpkcW53WmhaMm1XQ0FCUjBHa3pOcTJtbjRyYUxQY09lZ0lDeDlLU25UV2U3by85QXVPYUlib3RIdjdHdDdCWTNHSVNvdGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUzOTEwNTkyCWZpbGU6YWlldmVyeXdoZXJlcHJvamVjdC1ndWkuYXBwLnRhci5negpIMFdTZjl2cC92eTJxZ3dqWngvUXFPUUovZFFaem9DTG5rZkFIN3cwWEo1bGR1eXZuS3RnWWZmVWJRYW5yTlVyV1g3bnBpT1ZvQmVjcjAzVDBXd0xDUT09Cg==",
       "url": "https://github.com/EricXiang400/ai-everywhere-fe-updates/releases/download/v0.4.0/aieverywhereproject-gui.app.tar.gz"
     },
     "darwin-x86_64": {
