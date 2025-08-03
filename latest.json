@@ -1,14 +1,14 @@
 {
-  "version": "0.6.0",
-  "notes": "First public build",
+  "version": "0.7.0",
+  "notes": "Update",
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSmMrUW5Zd0ZOeVdacWZZdE05QUExeVMrTytiLzBXZGFlM2kwTVJaTWlpYTBaMjVIU1hTRWhTRXlub0NLV0ZaMlU1bDJEbjJFN2ZJRnE4TXQ5RUt1d255VVl1NkRwb1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUzOTMxNDc3CWZpbGU6QWxhY3JpZnkgQUkuYXBwLnRhci5negpwQ2hYTzZubnYya3hZd2pvSysvK1FXaEhmN0lzdUg0SFZRMTVMZGIxcVBWU1RnNG1vZWU0RXVFczY1S3NLeXBETzU2Um4raURwNmpISGw1ZDJrSUhEUT09Cg==",
       "url": "https://github.com/EricXiang400/ai-everywhere-fe-updates/releases/download/v0.5.0/Alacrify.AI.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSmMrUW5Zd0ZOeWUxZkxaK1UrVzU4K1FzYWFuY2dQQXkzUWlEaTZIT0lsajlLbnFPUkJIdFZodjYvQUl6REl6bjVBQ1FoRGtrOXgyY1p5aUdMdjdaR1lsVmNaWnNTZXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUzOTk4MTE1CWZpbGU6QWxhY3JpZnkgQUkuYXBwLnRhci5nego5U3ZrRzJoY0FZR2Nmb2U3RVpPVkd4SDB4QjhhbnFMbHlwc0F1UTdsNXRUR3U3ZXZJRENLck8rOXo0SkFiNHNyeTBRcXpTKzFsSlNQSmNXcVJ5ZEpBdz09Cg==",
-      "url": "https://github.com/EricXiang400/ai-everywhere-fe-updates/releases/download/v0.6.0/Alacrify.AI.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSmMrUW5Zd0ZOeWQvdEFMNUZ0MzRzend2cDZCcFJXNHNXWU1NelNtYUJqOE5NZVFwaXNQb205LzRaczE2dUtCUS9BRk90Z0hDaTR0b1QrZEo1SURydVFFLzNJYWRXVWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU0MjM0MTUwCWZpbGU6QWxhY3JpZnkgQUkuYXBwLnRhci5negp0TXVzRXNyaStxMHN0ckk1ZEFKWU9UZ1VHYllpei9JOTJMalpVLysyQVVaVm0xWms1dmU0Znk3YTJHc2dITVBpYm53YlpoY2VlaVVOdmNKcmcwUndEQT09Cg==",
+      "url": "https://github.com/EricXiang400/ai-everywhere-fe-updates/releases/download/v0.7.0/Alacrify.AI.app.tar.gz"
     }
   }
 }
