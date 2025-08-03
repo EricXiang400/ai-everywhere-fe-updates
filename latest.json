@@ -1,5 +1,5 @@
 {
-  "version": "0.8.0",
+  "version": "0.9.0",
   "notes": "Update",
   "platforms": {
     "darwin-aarch64": {
@@ -7,8 +7,8 @@
       "url": "https://github.com/EricXiang400/ai-everywhere-fe-updates/releases/download/v0.5.0/Alacrify.AI.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSmMrUW5Zd0ZOeVIxeHh3TGMxN1hDK2UvQ3hsalZKMERqVTlOVXVycmNMZUpQbitlY2Fmc2lwSXdwRm1acng4SHZHcnRRWnVoYmNRT1p1cEMxV1ljSXdibDdBUnJnZ1FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU0MjM1ODA3CWZpbGU6QWxhY3JpZnkgQUkuYXBwLnRhci5negpvOExCclZxVEQ0dGJYYmpMdmZ6MWNNUjY3dk03Q1o5S3ZKS2xUd3U5UzdSU0hwVXRMTjdTendaMm5MU2Zrc0tGSTNBaU1RWGhTU1g3ZW9oVFBodUpBZz09Cg==",
-      "url": "https://github.com/EricXiang400/ai-everywhere-fe-updates/releases/download/v0.8.0/Alacrify.AI.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSmMrUW5Zd0ZOeWRNUHg0VTF5cEQ1b3FHRCtoMFlhdXVGdEQvWlJ6NGlQMGM0czQzMm54WWhENG1kTGxkbjhvbXEvOEpSY3NLZFBXTG55V1Q4VmUyZzUvNWx1NFEvdmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU0MjM3NDMzCWZpbGU6QWxhY3JpZnkgQUkuYXBwLnRhci5negp2bjlIWjlmUXNHYkdJdDdVL0cxZnFwbFVtQlkwK3ZRYmpKYS9IZ0IzMmxIaEdZTTVlTVVFeEF6OFlOcThEL21EcHFIOG9ldkZSRDF0SXNVOEM5d0tEQT09Cg==",
+      "url": "https://github.com/EricXiang400/ai-everywhere-fe-updates/releases/download/v0.9.0/Alacrify.AI.app.tar.gz"
     }
   }
 }
